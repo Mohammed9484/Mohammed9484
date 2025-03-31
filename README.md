@@ -9,9 +9,16 @@
 - 🖥 **Development Skills:** Skilled in **Java, C, C++, Python, SQL**, and various scripting tools for effective QA automation.
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile/)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:your-email@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp)](https://wa.me/your-number)
+<a href="https://www.linkedin.com/in/mohammed-hasan-abdelfattah/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">
+</a>  
+<a href="mailto:mohammed.hasan.abdelfattah@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-red?logo=gmail" alt="Gmail">
+</a>  
+<a href="https://wa.me/+201066135213" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-green?logo=whatsapp" alt="WhatsApp">
+</a>
+
 
 ## 🛠 Technologies and Tools
 <p align="left">
