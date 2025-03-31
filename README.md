@@ -10,14 +10,15 @@
 
 ## 📫 Connect with Me
 <a href="https://www.linkedin.com/in/mohammed-hasan-abdelfattah/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn" width="150" height="50">
 </a>  
 <a href="mailto:mohammed.hasan.abdelfattah@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-red?logo=gmail" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-red?logo=gmail" alt="Gmail" width="150" height="50">
 </a>  
 <a href="https://wa.me/+201066135213" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-green?logo=whatsapp" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/WhatsApp-green?logo=whatsapp" alt="WhatsApp" width="150" height="50">
 </a>
+
 
 
 ## 🛠 Technologies and Tools
