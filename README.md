@@ -5,7 +5,6 @@
 - 🎓 Education: B.Sc. in Civil Engineering, Fayoum University
 - 🎓 **Professional Diploma:** Studied Software Testing at **ITI** (Software Testing Track)
 - 📜 **Certifications:**  ISTQB® Certified Tester (CTFL)
-- 💼 **Current Role:** Software Tester
 - 🛠️ **Technical Skills:** Proficient in manual and automated testing, including tools like Selenium, TestNG, and Jenkins.
 - 🖥 **Development Skills:** Skilled in **Java, C, C++, Python, SQL**, and various scripting tools for effective QA automation.
 
