@@ -1,8 +1,9 @@
 # Hi there! 👋 I'm Mohammed Hasan Abdelfattah
 
 ## 📌 About Me
-- 🔬 **Software Tester & QA Enthusiast** with experience in Agile methodologies and a focus on delivering high-quality software solutions.
-- 🎓 **Education:** Studied Software Testing at **ITI** (Nov 2024 - Mar 2025)
+- 🔬 **Software Tester** with experience in Agile methodologies and a focus on delivering high-quality software solutions.
+- 🎓 Education: B.Sc. in Civil Engineering, Fayoum University
+- 🎓 **Professional Diploma:** Studied Software Testing at **ITI** (Software Testing Track)
 - 📜 **Certifications:**  ISTQB® Certified Tester (CTFL)
 - 💼 **Current Role:** Software Tester
 - 🛠️ **Technical Skills:** Proficient in manual and automated testing, including tools like Selenium, TestNG, and Jenkins.
