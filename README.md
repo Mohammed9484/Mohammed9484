@@ -10,13 +10,13 @@
 
 ## 📫 Connect with Me
 <a href="https://www.linkedin.com/in/mohammed-hasan-abdelfattah/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn" width="150" height="50">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn" width="75" height="25">
 </a>  
 <a href="mailto:mohammed.hasan.abdelfattah@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-red?logo=gmail" alt="Gmail" width="150" height="50">
+  <img src="https://img.shields.io/badge/Gmail-red?logo=gmail" alt="Gmail" width="75" height="25">
 </a>  
 <a href="https://wa.me/+201066135213" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-green?logo=whatsapp" alt="WhatsApp" width="150" height="50">
+  <img src="https://img.shields.io/badge/WhatsApp-green?logo=whatsapp" alt="WhatsApp" width="75" height="25">
 </a>
 
 
